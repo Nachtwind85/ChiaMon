@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.chiamon.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\mamag\RiderProjects\chiamon\.idea\.idea.chiamon\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
